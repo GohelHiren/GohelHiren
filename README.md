@@ -17,7 +17,7 @@ I've delivered live projects for clients, managed server deployments, and traine
 
 I thrive in collaborative environments and am always eager to learn new technologies. I am seeking opportunities to contribute my skills and enthusiasm to a dynamic team.
 
->   [ **Interested in working together? Let's connect!**  ](https://hirengohelofficial.me/)
+>   [ **Interested in working together? Let's connect!**  ](https://hirengohelofficial.me/#contact)
 
 ---
 
