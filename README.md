@@ -1,7 +1,7 @@
 <!-- Hiren Gohel | Full Stack Web Developer | Rajkot, Gujarat -->
 
 <p align="center">
-  <img src="https://github.com/GohelHiren/GohelHiren/assets/your-logo.png" alt="Hiren Gohel Logo" width="120" />
+  <img src="https://github.com/GohelHiren/GohelHiren/icon-hg-64.svg" alt="Hiren Gohel Logo" width="120" />
 </p>
 
 <h1 align="center">Hi! 👋 I am Hiren Gohel</h1>
