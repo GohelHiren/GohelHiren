@@ -49,7 +49,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=GohelHiren&show_icons=true&hide_title=true&count_private=true&theme=radical&border_radius=15" alt="GitHub Stats" height="180" />
 
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GohelHiren&layout=compact&theme=radical&border_radius=15" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GohelHiren&layout=compact&theme=radical&border_radius=15" alt="Top Languages" height="180" align="center" />
 </p>
 
 ---
