@@ -43,18 +43,6 @@
 
 ---
 
-## 📊 GitHub Status
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GohelHiren&show_icons=true&hide_title=true&count_private=true&theme=radical&border_radius=15" alt="GitHub Stats" height="180" />
-
-  <br/><br/>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GohelHiren&layout=compact&theme=radical&border_radius=15" alt="Top Languages" height="180"  />
-</p>
-</p>
-
----
 ## 🎓 Education
 
 - **Master of Computer Applications (MCA)**  
